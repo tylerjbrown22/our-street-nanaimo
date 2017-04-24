@@ -1864,7 +1864,8 @@
 
 			#nav {
 				position: absolute;
-				top: 3em;
+				top: 1.5em;
+				bottom: 2em;
 				left: 0;
 				width: 100%;
 			}
