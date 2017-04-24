@@ -1547,7 +1547,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		position: relative;
+		position: static;
 		background: #fff;
 		text-align: center;
 	}
